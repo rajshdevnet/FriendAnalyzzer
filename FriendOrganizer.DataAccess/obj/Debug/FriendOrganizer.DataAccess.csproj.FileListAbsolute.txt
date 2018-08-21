@@ -1,0 +1,14 @@
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.pdb
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.dll
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.pdb
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csprojResolveAssemblyReference.cache
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll.config
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.Migrations.InitialDatabase.resources
+F:\Dot Net\WPF\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.GenerateResource.Cache
