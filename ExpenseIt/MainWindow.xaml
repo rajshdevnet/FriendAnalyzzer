@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label x:Name="label" Content="Please follow..." HorizontalAlignment="Left" Margin="148,68,0,0" VerticalAlignment="Top" Width="119"/>
+
     </Grid>
 </Window>
